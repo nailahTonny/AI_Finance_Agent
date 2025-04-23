@@ -1,0 +1,12 @@
+gradio
+whisper
+pydub
+sentence-transformers
+faiss-cpu
+openpyxl
+pandas
+numpy
+sqlite-utils
+pyttsx3
+python-docx
+fpdf
